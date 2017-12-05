@@ -1,4 +1,16 @@
 # Interests
-- description: Drinking beer.
-- description: Grand Funk Railroad.
-- description: Flanders' lawnmower.
+# Sports
+- topic: Sports
+  description: >
+    <ul class="resume-item-list">
+      <li>Table Tennis</li>
+      <li>Badminton</li>
+      <li>Cycling</li>
+    </ul>
+
+- topic: Geeky
+  description: >
+    <ul class="resume-item-list">
+      <li>Learning and trying out new cool tools.</li>
+      <li>Wants to learn and have more time on Machine/Deep learning.</li>
+    </ul>

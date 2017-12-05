@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/11917494_10205977463214850_3180097162471028653_n.jpg?oh=0bedfb639c1bbdf18b07024e0895b6a7&oe=5AD2A01F" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -125,6 +125,24 @@
       <!-- end Skills -->
       {% endif %}
 
+      {% if site.resume_section_language %}
+      <!-- begin Language -->
+      <section class="content-section">
+        
+        <header class="section-header">
+          <h2>Language</h2>
+        </header>
+        {% for lang in site.data.language %}
+        <div class="resume-item">
+          <h3 class="resume-item-title">{{ lang.language }}</h3>
+          <p class="resume-item-copy">{{ lang.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Language -->
+      {% endif %}
+
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
       <section class="content-section">
@@ -173,13 +191,12 @@
           <h2>Outside Interests</h2>
         </header>
 
+        {% for interest in site.data.interests %}
         <div class="resume-item">
-          <ul class="resume-item-list">
-            {% for interest in site.data.interests %}
-            <li>{{ interest.description }}</li>
-            {% endfor %}
-          </ul>
+          <h4 class="resume-item-details">{{ interest.topic }}</h4>
+          <p class="resume-item-copy">{{ interest.description }}</p>
         </div>
+        {% endfor %}
 
       </section>
       <!-- end Interests -->
@@ -222,8 +239,8 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line">This awesome resume theme is forked from <a href="https://github.com/jglovier/resume-template">resume-template
+        </a> made by <a href="http://twitter.com/jglovier">@jglovier</a>.</p>
       </footer>
 
     </div>

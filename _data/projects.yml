@@ -1,16 +1,29 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+# scholarfy
+- project: Science Concierge
+  role: CSS Developer
+  duration: 2015
+  url: "http://www.scholarfy.net/"
+  description: A Python powered application for content-based recommendation based on Latent semantic analysis (LSA) topic distance and Rocchio Algorithm, see the implementation interactively on <a href='http://www.scholarfy.net/' target='_blank'>scholarfy.net</a>.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+# unity
+- project: Gyro-Roller Based Rehabilitation Program for Stroke Patients
+  role: Software Developer
+  duration: 2013 &mdash; 2016
+  url: "https://www.mahidol.ac.th/en/news-2016/Sep/Gyro-Roller/Gyro-Roller.html"
+  description: A thesis on game based rehabilitation system for stroke patients. The game was developed using Unity Game Engine. All the data analysis was done by Python and its powerful libraries.
+
+# robot for autism
+- project: Robot for Autistic Children
+  role: Software Developer
+  duration: 2016
+  url: "http://www.tnnthailand.com/clip_detail.php?id=13870"
+  description: A robot designed to improve focus of autistic children. There are several kinds of content to be used as teaching materials. The software development mainly utilized React (Both JS and Native) and also NodeJS.
+
+# robot for elderly
+- project: Robot for Elderly
+  role: Software Developer
+  duration: 2016 &mdash; present
+  description: A robot designed to be friend of elderly. It consists of features that can be used during daily routine such as radio player, dharma player, exercise trainer and games. The system is developed by Go and NodeJS.
