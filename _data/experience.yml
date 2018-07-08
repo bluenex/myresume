@@ -1,8 +1,18 @@
 # Jobs
+# Salween
+- company: Salween Solutions
+  position: Mobile Developer
+  duration: Apr, 2018 &mdash; Present
+  summary: >
+    <ul class="resume-item-list">
+      <li>Develop mobile apps mostly with React Native</li>
+    </ul>
+
+
 # AIM LAB
 - company: Advanced Intelligence in Medicine, AIM LAB
   position: Research Assistant
-  duration: 2013 &mdash; Present
+  duration: 2013 &mdash; Mar, 2018
   summary: >
     <ul class="resume-item-list">
       <li>Develop game based rehabilitation system for stroke patient. [Unity Game Engine with C#]</li>
