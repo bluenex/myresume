@@ -1,11 +1,27 @@
 # Skills
-# Coding
-- skill: Coding
+# General Coding
+- skill: General Coding
   description: >
     <ul class="resume-item-list">
-      <li><b>Language [+>-]</b>: Python, HTML, CSS, Go, Unity Game Engine, C#, JavaScript, LaTeX, Bash, R, Arduino, Java.</li>
+      <li><b>Language</b>: Python, HTML, CSS, Go, Unity Game Engine, C#, JavaScript, LaTeX, Bash, R, Arduino, Java.</li>
       <li><b>Mastering Tools</b>: Tmux, VS code, Git.</li>
       <li><b>OS</b>: Better UNIX-based, but can be any others.</li>
+    </ul>
+
+# Mobile Dev
+- skill: Mobile Development
+  description: >
+    <ul class="resume-item-list">
+      <li><b>Platform</b>: ReactJS, React Native.</li>
+      <li><b>Libraries</b>: Redux, Styled-Components.</li>
+    </ul>
+
+# Scripting
+- skill: Automation Script
+  description: >
+    <ul class="resume-item-list">
+      <li><b>Language</b>: Python, Bash, JavaScript.</li>
+      <li><b>Libraries</b>: Click (Python), NodeJS.</li>
     </ul>
 
 # Non coding

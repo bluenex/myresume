@@ -1,19 +1,13 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# scholarfy
-- project: Science Concierge
-  role: CSS Developer
-  duration: 2015
-  url: "http://www.scholarfy.net/"
-  description: A Python powered application for content-based recommendation based on Latent semantic analysis (LSA) topic distance and Rocchio Algorithm, see the implementation interactively on <a href='http://www.scholarfy.net/' target='_blank'>scholarfy.net</a>.
+# gotta have some hobbies here!
 
-# unity
-- project: Gyro-Roller Based Rehabilitation Program for Stroke Patients
+# robot for elderly
+- project: Robot for Elderly
   role: Software Developer
-  duration: 2013 &mdash; 2016
-  url: "https://www.mahidol.ac.th/en/news-2016/Sep/Gyro-Roller/Gyro-Roller.html"
-  description: A thesis on game based rehabilitation system for stroke patients. The game was developed using Unity Game Engine. All the data analysis was done by Python and its powerful libraries.
+  duration: 2016 &mdash; 2018
+  description: A robot designed to be friend of elderly. It consists of features that can be used during daily routine such as radio player, dharma player, exercise trainer and games. The system is developed by Go and NodeJS.
 
 # robot for autism
 - project: Robot for Autistic Children
@@ -22,8 +16,17 @@
   url: "http://www.tnnthailand.com/clip_detail.php?id=13870"
   description: A robot designed to improve focus of autistic children. There are several kinds of content to be used as teaching materials. The software development mainly utilized React (Both JS and Native) and also NodeJS.
 
-# robot for elderly
-- project: Robot for Elderly
+# unity
+- project: Gyro-Roller Based Rehabilitation Program for Stroke Patients
   role: Software Developer
-  duration: 2016 &mdash; present
-  description: A robot designed to be friend of elderly. It consists of features that can be used during daily routine such as radio player, dharma player, exercise trainer and games. The system is developed by Go and NodeJS.
+  duration: 2013 &mdash; 2016
+  url: "https://www.mahidol.ac.th/en/news-2016/Sep/Gyro-Roller/Gyro-Roller.html"
+  description: A thesis on game based rehabilitation system for stroke patients. The game was developed using Unity Game Engine. All the data analysis was done by Python and its powerful libraries.
+
+# scholarfy
+- project: Science Concierge
+  role: CSS Developer
+  duration: 2015
+  url: "http://www.scholarfy.net/"
+  description: A Python powered application for content-based recommendation based on Latent semantic analysis (LSA) topic distance and Rocchio Algorithm, see the implementation interactively on <a href='http://www.scholarfy.net/' target='_blank'>scholarfy.net</a>.
+
