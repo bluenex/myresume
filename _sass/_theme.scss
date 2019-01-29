@@ -1,0 +1,29 @@
+// Themes
+
+.theme-darkblue {
+  color: #eeee;
+  background: #2a2a2a;
+
+  .content-section {
+    .resume-item-title,
+    .resume-item-details,
+    .resume-item-copy,
+    .resume-item-list {
+      a {
+        color: #eee;
+
+        &:hover {
+          color: #00aedb;
+        }
+      }
+    }
+  }
+
+  .page-footer {
+    .footer-line {
+      > a {
+        color: #00aedb;
+      }
+    }
+  }
+}

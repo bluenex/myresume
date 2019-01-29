@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Tulakan Ruangrong"
-resume_title:                   "Coder"
+resume_title:                   "Developer"
 resume_contact_email:           "tulakan.r@gmail.com"
 resume_contact_telephone:       "+6683-298-2626"
 resume_contact_address:         "163/24 Khu Bon Rd., Tha Raeng, Bang Khen, Bangkok 10220"
@@ -50,7 +50,7 @@ resume_social_links:
 resume_print_social_links:      true
 
 # Design settings
-resume_theme:                   default
+resume_theme:                   darkblue
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
