@@ -1,9 +1,9 @@
 // Themes
 
 .theme-darkblue {
-  $text_color:  #eeee;
+  $text_color:  rgba(238, 238, 238, 0.9);
   $bg_color: #2a2a2a;
-  $link_color:  #eeee;
+  $link_color:  rgba(238, 238, 238, 0.9);
   $link_hover:  #00aedb;
 
   color: $text_color;
