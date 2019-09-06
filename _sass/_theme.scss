@@ -20,6 +20,11 @@
         &:hover {
           color: $link_hover;
         }
+
+        // normalize link color when print
+        @media print {
+          color: $bg_color;
+        }
       }
     }
   }
@@ -29,6 +34,23 @@
       > a {
         color: $link_hover;
       }
+    }
+  }
+
+  @media print {
+    color: $bg_color;
+    background: $text_color;
+
+    // top of title after page break is cut to previous page
+    .resume-item-title,
+    .resume-item-details {
+      padding-top: 0.05rem;
+    }
+
+    // avoid page breaking on weird looking points
+    .resume-item,
+    .section-header {
+      page-break-inside: avoid;
     }
   }
 }
