@@ -3,6 +3,13 @@
 
 # gotta have some hobbies here!
 
+# Siamensis SI
+- project: Siamensis SI Data
+  role: Project Owner
+  duration: "&mdash;"
+  url: "https://github.com/bluenex/siamensis-si"
+  description: A project to scrape data from the community Species Index of Thailand. The future plan is to have data visualization on the scraped data.
+
 # robot for elderly
 - project: Robot for Elderly
   role: Software Developer
