@@ -40,3 +40,10 @@
       <li><b>Documents</b>: Markdown, LaTeX, Google Docs-Sheets-Slides, MS Office, Open Office.</li>
       <li><b>Images</b>: Adobe PS-AI, GIMP, ffmpeg.</li>
     </ul>
+
+# Certificates
+- skill: Certificates
+  description: >
+    <ul class="resume-item-list">
+      <li><b>Microsoft Exam 70-480</b>: Programming in HTML5 with JavaScript and CSS3.</li>
+    </ul>
