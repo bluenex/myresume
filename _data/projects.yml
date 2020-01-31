@@ -3,9 +3,16 @@
 
 # gotta have some hobbies here!
 
+# Penn Event Calendar
+- project: Events at the University of Pennsylvania
+  role: Frontend Developer
+  duration: 2019
+  url: https://github.com/titipata/penn-events-calendar/
+  description: A web application that collects all events happening at the University of Pennsylvania with built-in search and recommendation engine. The site is live at <a href='http://35.160.123.103/' target='_blank'>35.160.123.103</a> (DNS pending).
+
 # Siamensis SI
 - project: Siamensis SI Data
-  role: Project Owner
+  role: Author
   duration: "&mdash;"
   url: "https://github.com/bluenex/siamensis-si"
   description: A project to scrape data from the community Species Index of Thailand. The future plan is to have data visualization on the scraped data.
