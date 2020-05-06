@@ -4,25 +4,17 @@
   description: >
     <ul class="resume-item-list">
       <li><b>Language</b>: Python, Bash, LaTeX, Go, Java, C#, Unity Game Engine, R, Arduino.</li>
-      <li><b>Mastering Tools</b>: Tmux, VS code, Git.</li>
+      <li><b>Mastering Tools</b>: Tmux, VS code, Git CLI.</li>
       <li><b>OS</b>: Better UNIX-based, but can be any others.</li>
     </ul>
 
-# Web Dev
-- skill: Web Development
+# Web/Mobile Dev
+- skill: Web/Mobile Development
   description: >
     <ul class="resume-item-list">
-      <li><b>Language</b>: JavaScript, HTML5, CSS3.</li>
-      <li><b>Platforms</b>: ReactJS, Gatsby, OrchardCore.</li>
-      <li><b>Tools</b>: Gulp, Sass.</li>
-    </ul>
-
-# Mobile Dev
-- skill: Mobile Development
-  description: >
-    <ul class="resume-item-list">
-      <li><b>Platform</b>: React Native.</li>
-      <li><b>Libraries</b>: Redux, Styled-Components.</li>
+      <li><b>Language</b>: JavaScript, HTML5, CSS3, Liquid.</li>
+      <li><b>Platforms</b>: React Native, ReactJS, Gatsby, OrchardCore.</li>
+      <li><b>Tools</b>: Redux, styled-components, Gulp, Sass.</li>
     </ul>
 
 # Scripting
@@ -30,7 +22,7 @@
   description: >
     <ul class="resume-item-list">
       <li><b>Language</b>: Python, Bash, JavaScript.</li>
-      <li><b>Libraries</b>: <a href="https://click.palletsprojects.com/">Click (Python)</a>, <a href="https://pypi.org/project/inquirer/">Inquirer</a>.</li>
+      <li><b>Libraries</b>: <a href="https://click.palletsprojects.com/">Click (Python)</a>, Ansible.</li>
     </ul>
 
 # Non coding

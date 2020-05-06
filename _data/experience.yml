@@ -1,7 +1,7 @@
 # Jobs
 # Salween
 - company: Salween Solutions
-  position: Mobile Developer [React Native]
+  position: React Native Developer
   duration: Apr, 2018 &mdash; Present
   summary: >
     <ul class="resume-item-list">
@@ -30,7 +30,9 @@
   duration: Leisure Time &mdash; Present
   summary: >
     <ul class="resume-item-list">
-      <li>Write CSS and JS for <a href="http://www.scholarfy.net">http://www.scholarfy.net</a>.</li>
+      <li>Frontend developer for <a href="https://neuromatch.io">neuromatch.io</a>.</li>
+      <li>Frontend developer for <a href="http://35.160.123.103/">Events at the University of Pennsylvania</a>.</li>
+      <li>Frontend developer for <a href="http://www.scholarfy.net">http://www.scholarfy.net</a>.</li>
       <li>Write website for AIM LAB, <a href="https://aimlabmu.github.io/">https://aimlabmu.github.io/</a>, using Jekyll.</li>
       <li>Blogging on Github using Pages with Jekyll at <a href="https://tupleblog.github.io">tupleblog.github.io</a> and <a href="https://bluenex.github.io">bluenex.github.io</a>.</li>
     </ul>

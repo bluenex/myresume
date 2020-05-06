@@ -3,6 +3,13 @@
 
 # gotta have some hobbies here!
 
+# neuromatch.io
+- project: neuromatch.io
+  role: Frontend Developer
+  duration: 2020
+  url: https://neuromatch.io
+  description: A data-driven unconference for computational neuroscientists organized by <a href='http://kordinglab.com/' target='_blank'>Kording lab</a> and <a href='http://neural-reckoning.org/' target='_blank'>Goodman lab</a>. The website is developed using Gatsby for the frontend and Hug API for the backend.
+
 # Penn Event Calendar
 - project: Events at the University of Pennsylvania
   role: Frontend Developer
