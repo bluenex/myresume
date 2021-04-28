@@ -53,13 +53,13 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/bluenex/"
+  resume_github_url:            "https://github.com/bluenex"
   resume_twitter_url:           "https://twitter.com/tulakann"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://facebook.com/tulakann"
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://bluenex.github.io"
+  resume_website_url:           "https://bluenex.dev"
 resume_print_social_links:      true
 
 # Design settings
